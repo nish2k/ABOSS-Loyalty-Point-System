@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package aboss.loyalty.point.system;
+/*package aboss.loyalty.point.system;
 
 import java.util.Scanner;
 import java.util.UUID;
@@ -68,3 +68,4 @@ public class User {
     }
 }
 
+*/
